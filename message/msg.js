@@ -29,6 +29,7 @@ const axios = require("axios");
 const hxz = require("hxz-api");
 const ra = require("ra-api");
 const kotz = require("kotz-api");
+const yts = require("yt-search");
 const speed = require("performance-now");
 const request = require("request");
 const ms = require("parse-ms");
